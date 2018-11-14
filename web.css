@@ -1,0 +1,146 @@
+.clr
+{
+	clear: both;
+}
+body
+{
+ background:grey;
+}
+#t
+{
+	text-align: center;
+	font-size: 5vw;
+	color:white;
+	background-color: blue;
+}
+#Home{
+  text-decoration: underline;
+  color:pink;
+
+}
+#navbar{
+	text-shadow: 10%
+}
+nav
+{   position: relative;
+	background: orange;
+	width:100%;
+	font-family: Tahoma;
+	opacity:0.8;
+	border-size:border-box;
+	float: left;
+}
+nav h2
+{
+	float:left;
+	font size:24px;
+}
+nav ul
+{
+	list-style: none;
+	margin:0px;
+	padding:0px;
+	display:flex;
+}
+
+nav ul li
+{
+	padding:10px;
+	float:right;
+    border:1px black solid;
+    border-size:border-box;
+    margin:0px;
+}
+nav ul li a
+{
+	text-decoration: none;
+    color: white;
+}
+nav ul li:hover
+{
+ 	background:black;
+}
+.Electro
+{
+	font-family: Tahoma;
+}
+.calc
+{   border:2px solid black;
+	float:left;
+	margin: 10px;
+	padding:20px;
+}
+.calc img
+{
+	height:300px;
+	width:200px;
+}
+.Eket
+{   border:2px solid black;
+	float:left;
+	margin: 10px;
+	padding:20px;
+}
+.Eket img
+{
+ height: 300px;
+ width:200px;
+}
+.ipod
+{   border:2px solid black;
+	float:left;
+	margin: 10px;
+	padding:20px;
+}
+.ipod img
+{
+	height:300px;
+	width:200px;
+}
+.book
+{
+	font-family: Tahoma;
+}
+.hp
+{   border:2px solid black;
+	float:left;
+	margin: 10px;
+	padding:20px;
+}
+.hp img
+{
+	height:300px;
+	width:200px;
+}
+.rd
+{   border:2px solid black;
+	float:left;
+	margin: 10px;
+	padding:20px;
+}
+.rd img
+{
+ height: 300px;
+ width:200px;
+}
+.jain
+{   border:2px solid black;
+	float:left;
+	margin: 10px;
+	padding:20px;
+}
+.jain img
+{
+	height:300px;
+	width:200px;
+}
+.image1
+{
+	width:"100px";
+	height:"200px";
+}
+.image1 : hover
+{
+	width: 800px;
+	height : 1000px;
+}

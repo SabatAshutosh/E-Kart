@@ -1,0 +1,57 @@
+body
+{
+	background:url("./images/pexels5.jpeg")no-repeat;
+	background-size : cover;
+    font-family: sans-serif;
+}
+
+#login
+{  
+	position:absolute;
+	top:13vw;
+	left:35vw;
+    font-size : 2vw;
+	background:black;
+	color :white;
+	opacity:0.85; 
+    width:25%;
+	overflow:hidden;
+	text-align: center;
+}
+
+#login img{
+	height: 10vw;
+	width:  10vw;
+	opacity: 200%;
+}
+#email{
+	margin-left: 2.5vw;
+}
+.text_cursor : hover {
+    cursor: text;
+}
+#sub_pass 
+{ 
+	font-size: 1vw;
+	padding-top: 5vw;
+   font-weight: bold;
+}
+ 
+ {
+ 	text-align: left;
+ }
+a
+{
+	text-decoration: none;
+	color: #ecf0f1;
+	opacity: 0.5;
+	padding:5px;
+    font-size: 1vw;
+    font-style: italic;
+
+}
+a:hover
+{
+	color:blue;
+	text-decoration: underline;
+}
